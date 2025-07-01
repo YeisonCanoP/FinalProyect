@@ -1,0 +1,62 @@
+2025-06-24 23:24:12 - ERROR - No se encontraron resultados en la respuesta de Vtiger.
+2025-06-24 23:24:58 - ERROR - No se encontraron resultados en la respuesta de Vtiger.
+2025-06-24 23:27:56 - ERROR - No se encontraron resultados en la respuesta de Vtiger.
+2025-06-24 23:48:51 - ERROR - Error al obtener las ventas por día: module 'datetime' has no attribute 'now'
+2025-06-24 23:49:31 - ERROR - Error al obtener las ventas por día: 
+2025-06-24 23:50:47 - ERROR - Error al obtener las ventas por día: can only concatenate str (not "datetime.timedelta") to str
+2025-06-25 00:20:04 - ERROR - Error al insertar en la base de datos: 'CMySQLConnection' object has no attribute 'execute'
+2025-06-25 00:30:27 - ERROR - Error inesperado al iniciar sesión en Vtiger: 
+2025-06-25 00:30:27 - ERROR - No se pudo iniciar sesión en Vtiger.
+2025-06-25 00:52:08 - ERROR - Error en respuesta Vtiger: Syntax Error on line 1: token '(' Unexpected PARENOPEN((), expected one of: COLUMNNAME
+2025-06-25 09:53:39 - ERROR - Error al guardar el resumen en la base de datos: 1046 (3D000): No database selected
+2025-06-25 09:54:26 - ERROR - Error al guardar el resumen en la base de datos: 1054 (42S22): Unknown column 'total_transporte' in 'field list'
+2025-06-25 10:19:16 - ERROR - Error al obtener el resumen de ventas: 'function' object has no attribute 'DataFrame'
+2025-06-25 10:19:30 - ERROR - Error al obtener el resumen de ventas: 'function' object has no attribute 'DataFrame'
+2025-06-25 10:30:44 - ERROR - Error al guardar el resumen diario en la base de datos: 1046 (3D000): No database selected
+2025-06-25 10:30:44 - ERROR - No se pudo guardar el resumen diario.
+2025-06-25 10:39:24 - ERROR - Error al obtener las ventas anuales desde la base de datos: 1054 (42S22): Unknown column 'total_transporte' in 'field list'
+2025-06-25 11:36:18 - ERROR - Error al obtener las ventas del dia: 1046 (3D000): No database selected
+2025-06-25 19:51:16 - ERROR - Error creating productivity graph: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:16 - ERROR - Error creating graphs and tables area: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:16 - ERROR - Error creating body content: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:16 - ERROR - Error creating page: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:16 - ERROR - Error creating tablero view: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:22 - ERROR - Error creating productivity graph: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:22 - ERROR - Error creating graphs and tables area: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:22 - ERROR - Error creating body content: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:22 - ERROR - Error creating page: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:51:22 - ERROR - Error creating tablero view: Builder.create_dropdown() missing 1 required positional argument: 'onchage'
+2025-06-25 19:52:55 - ERROR - Error creating graphs and tables area: No module named 'portalocker'
+2025-06-25 19:52:55 - ERROR - Error creating body content: No module named 'portalocker'
+2025-06-25 19:52:55 - ERROR - Error creating page: No module named 'portalocker'
+2025-06-25 19:52:55 - ERROR - Error creating tablero view: No module named 'portalocker'
+2025-06-25 19:53:03 - ERROR - Error creating graphs and tables area: No module named 'portalocker'
+2025-06-25 19:53:03 - ERROR - Error creating body content: No module named 'portalocker'
+2025-06-25 19:53:03 - ERROR - Error creating page: No module named 'portalocker'
+2025-06-25 19:53:03 - ERROR - Error creating tablero view: No module named 'portalocker'
+2025-06-25 20:04:24 - ERROR - Error creating productivity graph: TextStyle.__init__() got multiple values for argument 'size'
+2025-06-25 20:04:24 - ERROR - Error creating graphs and tables area: TextStyle.__init__() got multiple values for argument 'size'
+2025-06-25 20:04:24 - ERROR - Error creating body content: TextStyle.__init__() got multiple values for argument 'size'
+2025-06-25 20:04:24 - ERROR - Error creating page: TextStyle.__init__() got multiple values for argument 'size'
+2025-06-25 20:04:24 - ERROR - Error creating tablero view: TextStyle.__init__() got multiple values for argument 'size'
+2025-06-25 20:22:44 - ERROR - Error al intentar traer las ventas de los ultimos 7 dias: 1046 (3D000): No database selected
+2025-06-25 20:23:08 - ERROR - Error al intentar traer las ventas de los ultimos 7 dias: 1046 (3D000): No database selected
+2025-06-25 20:29:36 - ERROR - Error al iniciar sesión en Vtiger: {'message': 'Invalid username or password', 'code': 'INVALID_USER_CREDENTIALS'}
+2025-06-25 20:29:36 - ERROR - No se pudo iniciar sesión en Vtiger.
+2025-06-25 20:30:07 - ERROR - Error al intentar traer las ventas de las ultimas 24 horas: 1146 (42S02): Table 'analytics_db.venta_por_horas' doesn't exist
+2025-06-25 20:34:06 - ERROR - Error al iniciar sesión en Vtiger: {'message': 'Invalid username or password', 'code': 'INVALID_USER_CREDENTIALS'}
+2025-06-25 20:34:06 - ERROR - No se pudo iniciar sesión en Vtiger.
+2025-06-25 23:58:45 - ERROR - Error al insertar productos: 1046 (3D000): No database selected
+2025-06-25 23:58:47 - ERROR - Error al insertar productos anuales: 1046 (3D000): No database selected
+2025-06-25 23:59:38 - ERROR - Error al insertar productos: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos`, CONSTRAINT `productos_mas_vendidos_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-25 23:59:39 - ERROR - Error al insertar productos anuales: 1146 (42S02): Table 'analytics_db.productos_mas_vendidos_anual' doesn't exist
+2025-06-26 00:03:46 - ERROR - Error al insertar productos: 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 10
+2025-06-26 00:03:48 - ERROR - Error al insertar productos anuales: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos_anuales`, CONSTRAINT `productos_mas_vendidos_anuales_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-26 00:05:16 - ERROR - Error al insertar productos: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos`, CONSTRAINT `productos_mas_vendidos_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-26 00:05:17 - ERROR - Error al insertar productos anuales: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos_anuales`, CONSTRAINT `productos_mas_vendidos_anuales_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-26 00:08:17 - ERROR - Error al insertar productos: 1146 (42S02): Table 'analytics_db.Inventario' doesn't exist
+2025-06-26 00:08:18 - ERROR - Error al insertar productos anuales: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos_anuales`, CONSTRAINT `productos_mas_vendidos_anuales_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-26 00:09:18 - ERROR - Error al insertar productos: 1146 (42S02): Table 'analytics_db.Inventario' doesn't exist
+2025-06-26 00:09:20 - ERROR - Error al insertar productos anuales: 1452 (23000): Cannot add or update a child row: a foreign key constraint fails (`analytics_db`.`productos_mas_vendidos_anuales`, CONSTRAINT `productos_mas_vendidos_anuales_ibfk_1` FOREIGN KEY (`producto_id`) REFERENCES `inventario` (`id`) ON DELETE CASCADE)
+2025-06-26 09:31:15 - ERROR - Error al obtener el resumen de ventas: 'hdnGrandTotal'
+2025-06-26 09:32:24 - ERROR - Error al obtener el resumen de ventas: name 'ahora' is not defined

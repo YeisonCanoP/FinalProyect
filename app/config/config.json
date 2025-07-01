@@ -1,0 +1,8 @@
+
+{
+    "config": {
+    "maxResponseTime": 5000,
+    "apiEndpoint": "https://www.practiequipos.com/crmpractiequipos8/webservice.php",
+    "username": "admin"
+    }
+}

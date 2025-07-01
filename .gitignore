@@ -1,0 +1,9 @@
+.env
+client_secret_944000398784-436kbr8f1fa7ivoe79d0ken4bqrkkejl.apps.googleusercontent.com.json
+._pycaches
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+*.pdb
+fonts

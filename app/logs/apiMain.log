@@ -1,0 +1,4 @@
+2025-06-20 17:05:25 - ERROR - Error en el login de Cognito: 'StarletteOAuth2App' object has no attribute 'cognito'
+2025-06-20 17:05:59 - ERROR - Error en el login de Cognito: 'StarletteOAuth2App' object has no attribute 'cognito'
+2025-06-24 12:24:15 - ERROR - Error en el login de Cognito: 'StarletteOAuth2App' object has no attribute 'authorize_redirect_url'
+2025-06-24 12:25:59 - ERROR - Error en el login de Cognito: Object of type RedirectResponse is not JSON serializable
